@@ -1,14 +1,16 @@
 ---
-ms.openlocfilehash: 8611d2cd2c3ec66eef09211be5451367dca20440
-ms.sourcegitcommit: 668426ecec2a7872a302f779461f6dd31fd2c4ae
+ms.openlocfilehash: 974e60c273db40bcb7dbad3e74ca9f2dc45425a2
+ms.sourcegitcommit: 7422ad6567fb2efb1a453053a6754631a0ff0d56
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/10/2022
-ms.locfileid: "138419958"
+ms.lasthandoff: 07/19/2022
+ms.locfileid: "147369701"
 ---
 # <a name="dp-300-administering-relational-databases-on-microsoft-azure"></a>DP-300: Microsoft Azure でのリレーショナル データベースの管理
 
-このレポジトリには、Microsoft Dp-300 の講師による指導付きトレーニングのラボの演習用の手順、スクリプト ファイル、イメージが格納されています。 
+このリポジトリは使用停止になっており、使用されていません。
+
+Microsoft DP-300 ラーニング コンテンツのラボ演習と手順にアクセスするには、「[DP-300: Administering Microsoft Azure SQL Solutions (DP-300: Microsoft Azure SQL ソリューションの管理)](https://github.com/MicrosoftLearning/dp-300-database-administrator)」を参照してください。 
 
 7 つのラボがあります。
 
