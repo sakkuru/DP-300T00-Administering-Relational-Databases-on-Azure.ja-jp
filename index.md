@@ -1,14 +1,9 @@
 ---
-title: オンライン ホステッド インストラクション
+title: オンラインでホスティングされている手順
 permalink: index.html
 layout: home
-ms.openlocfilehash: c612655617c9fb1f1baef2b3a78d0cb87f0e3d18
-ms.sourcegitcommit: 525e69932921e8ce30e81ee0f98ad4a87cda64ea
-ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 12/18/2021
-ms.locfileid: "137820612"
 ---
+
 # <a name="content-directory"></a>コンテンツ ディレクトリ
 
 各ラボの演習とデモへのハイパーリンクを以下に示します。

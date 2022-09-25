@@ -1,11 +1,3 @@
----
-ms.openlocfilehash: 974e60c273db40bcb7dbad3e74ca9f2dc45425a2
-ms.sourcegitcommit: 7422ad6567fb2efb1a453053a6754631a0ff0d56
-ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 07/19/2022
-ms.locfileid: "147369701"
----
 # <a name="dp-300-administering-relational-databases-on-microsoft-azure"></a>DP-300: Microsoft Azure でのリレーショナル データベースの管理
 
 このリポジトリは使用停止になっており、使用されていません。
@@ -16,11 +8,11 @@ Microsoft DP-300 ラーニング コンテンツのラボ演習と手順にア�
 
 ## <a name="lab-1---using-the-azure-portal-and-sql-server-management-studio"></a>ラボ 1 - Azure portal と SQL Server Management Studio の使用
 
-受講生は Azure portal を探索し、それを使用して SQL Server 2019 がインストールされた Azure VM を作成します。 次に、リモート デスクトップ プロトコルを介して仮想マシンに接続し、SQL Server Management Studio を使用してデータベースを復元します。
+Students will explore the Azure Portal and use it to create an Azure VM with SQL Server 2019 installed. Then they will connect to the virtual machine through Remote Desktop Protocol and restore a database using SQL Server Management Studio.
 
 ## <a name="lab-2--deploying-paas-databases"></a>ラボ 2 – PaaS Database のデプロイ
 
-受講者は、Virtual Network エンドポイントを使用して Azure SQL Database をデプロイするために必要な基本のリソースを構成します。 SQL Database への接続は、ラボの VM から Azure Data Studio を使用して検証されます。 最後に、Azure Database for PostgreSQL が作成されます。
+The student will configure basic resources needed to deploy an Azure SQL Database with a Virtual Network Endpoint. Connectivity to the SQL Database will be validated using Azure Data Studio from the lab VM. Finally, an Azure Database for PostgreSQL will be created.
 
 ## <a name="lab-3--implement-a-secure-environment"></a>ラボ 3 – 安全な環境を実装する
 
@@ -28,11 +20,11 @@ Microsoft DP-300 ラーニング コンテンツのラボ演習と手順にア�
 
 ## <a name="lab-4--monitor-and-optimize-resources"></a>ラボ 4 –リソースの監視と最適化
 
-学生は、レッスンで得た情報を利用して、AdventureWorks 内のデジタルトランスフォーメーション プロジェクトの成果物を調べます。 受講生は、Azure portal と他のツールを調べ、ネイティブ ツールを利用してパフォーマンス関連の問題を特定して解決する方法を決定します。 最後に、受講生はデータベース内の断片化を特定し、問題を適切に解決する手順を学ぶことができます。
+The students will take the information gained in the lessons to scope out the deliverables for a digital transformation project within AdventureWorks. Examining the Azure portal as well as other tools, students will determine how to utilize native tools to identify and resolve performance related issues. Finally, students will be able to identify fragmentation within the database as well as learn steps to resolve the issue appropriately.
 
 ## <a name="lab-5--query-performance-troubleshooting"></a>ラボ 5 - クエリ パフォーマンスの問題解決
 
-受講生は、正規化、データ型の選択、およびインデックス設計の問題について、データベース設計を評価します。 準最適なパフォーマンスでクエリを実行し、クエリ プランを調べ、AdventureWorks2017 データベース内で改善を試みます。
+The students will evaluate a database design for problems with normalization, data type selection and index design. They will run queries with suboptimal performance, examine the query plans, and attempt to make improvements within the AdventureWorks2017 database.
 
 ## <a name="lab-6--automate-resources"></a>ラボ 6 - リソースを自動化する
 
@@ -44,4 +36,4 @@ Microsoft DP-300 ラーニング コンテンツのラボ演習と手順にア�
 
 ## <a name="notes"></a>Notes
 
-ラボの演習からラボの仮想マシンにコードをコピーするときに、改行が正しく表示されないことがあります。 コードを実行する前に、コードが正しくコピーされていることを確認してください。 
+When copying code from the lab exercises into the lab Virtual Machine, occasionally line breaks will not come across properly. Please verify that the code is correctly copied before executing it. 
